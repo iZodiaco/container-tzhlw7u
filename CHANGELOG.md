@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Feb 23 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@iZodiaco](https://github.com/iZodiaco))
+
+#### Authors: 1
+
+- [@iZodiaco](https://github.com/iZodiaco)
+
+---
+
 # v0.0.1 (Fri May 09 2025)
 
 :tada: This release contains work from a new contributor! :tada:
